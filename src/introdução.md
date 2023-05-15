@@ -13,4 +13,4 @@ Além desta *introdução*, o texto é dividido em
 O projeto é dividido em duas partes:
 
  - **O jogo de infravermelho**:  
-
+ - **O protótipo do WiFi**
